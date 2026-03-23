@@ -1,0 +1,9 @@
+[general]
+config_version=4
+
+[render]
+vulkan=true
+
+[application]
+ame="Nomadic Life Game"
+main_scene="res://main.tscn"
